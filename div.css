@@ -1,0 +1,18 @@
+header{
+    background-color: #018790;
+    text-align: center;
+    padding: 20px 20px;
+    margin: 10px 10px;
+    color:#ffffff;
+}
+
+section{
+    display: flex;
+}
+
+div{
+    background-color: darkseagreen;
+    margin: 10px 10px;
+    padding: 5px;
+
+}
